@@ -1,5 +1,4 @@
 <h2><strong>Hi there, fellow </strong> &#60coders/&#62 </h2>
-<hr>
 <h2>I'm Kanishk Chhabra </h2>
 
 
@@ -13,6 +12,7 @@ Languages and Tools used:
 
 
 ![Kanishk's github stats](https://github-readme-stats.vercel.app/api?username=mrkc2303)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303)](https://github.com/mrkc2303/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/mrkc2303/count.svg)
 
