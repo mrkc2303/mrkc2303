@@ -16,7 +16,8 @@
 
 <code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code>
-
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+           
 ![Kanishk's github stats](https://github-readme-stats.vercel.app/api?username=mrkc2303)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303)](https://github.com/mrkc2303/github-readme-stats)
 
