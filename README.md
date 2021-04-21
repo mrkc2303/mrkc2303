@@ -12,7 +12,7 @@
 Languages and Tools used:
 
 
-!![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Kanishk's github stats](https://github-readme-stats.vercel.app/api?username=mrkc2303)
 
 ![Visitor Count](https://profile-counter.glitch.me/mrkc2303/count.svg)
 
