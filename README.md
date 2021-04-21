@@ -1,4 +1,4 @@
-<h2>Hi there, fellow <coders/> </h2>
+<h2>Hi there, fellow &#60coders/&#62 </h2>
 
 <!--
 **mrkc2303/mrkc2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
