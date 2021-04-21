@@ -12,4 +12,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/mrkc2303/count.svg)
 
-<strong><center> Show some :heart: by looking at my some repositories </center></strong>
+<strong><centre> Show some :heart: by looking at my some repositories </centre></strong>
