@@ -1,5 +1,4 @@
-<b><h2>Hi there, fellow &#60coders/&#62 </h2> </b>
-<hr>
+<h2>Hi there, fellow &#60coders/&#62 </h2><hr>
 <h3>I'm Kanishk Chhabra </h3>
 
 
