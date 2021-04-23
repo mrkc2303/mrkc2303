@@ -1,4 +1,4 @@
-<h2><strong>Hi there, fellow </strong> &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h2>Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 
 <h2>I'm Kanishk Chhabra </h2>
 
