@@ -20,7 +20,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
 <code><img height="20" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"></code>
            
-![Kanishk's github stats](https://github-readme-stats.vercel.app/api?username=mrkc2303)
+![Kanishk's github stats](https://github-readme-stats.vercel.app/api?username=alpha2320)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303)](https://github.com/mrkc2303/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/mrkc2303/count.svg)
