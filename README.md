@@ -2,7 +2,7 @@
 
 <h2>I'm Kanishk Chhabra </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-KanishkChhabra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kanishk-chhabra-07a456140/)](https://www.linkedin.com/in/kanishk-chhabra-07a456140/)
+[![Linkedin Badge](https://img.shields.io/badge/-KanishkChhabra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kanishk-chhabra/)](https://www.linkedin.com/in/kanishk-chhabra/)
 [![Twitter Badge](https://img.shields.io/badge/-@mrkc2303-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mrkc2303)](https://twitter.com/mrkc2303)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:kanishkchhabra23@gmail.com)](mailto:kanishkchhabra23@gmail.com)
 
