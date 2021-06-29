@@ -23,6 +23,7 @@
 ![Kanishk's github stats](https://github-readme-stats.vercel.app/api?username=mrkc2303) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303)](https://github.com/mrkc2303/github-readme-stats) <br>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrkc2303&theme=dracula" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrkc2303&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/mrkc2303/count.svg)
