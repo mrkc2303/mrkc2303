@@ -11,6 +11,7 @@
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about Anything that exites me
 - 📫 How to reach me: kanishkchhabra23@gmail.com
+- <a href = "https://drive.google.com/file/d/1KnPbIu8JynvVX75hpwT-oZcedqEFfXvP/view?usp=sharing">Click here to see my Resume</a>
 
 <strong>Languages and Tools used: </strong>
 
