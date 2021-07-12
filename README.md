@@ -2,9 +2,21 @@
 
 <h2>I'm Kanishk Chhabra </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-KanishkChhabra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kanishk-chhabra/)](https://www.linkedin.com/in/kanishk-chhabra/)
-[![Twitter Badge](https://img.shields.io/badge/-@mrkc2303-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mrkc2303)](https://twitter.com/mrkc2303)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:kanishkchhabra23@gmail.com)](mailto:kanishkchhabra23@gmail.com)
+<h3 align="center">Connect With Me !! </h2> 
+ 
+<p align="center">
+  <a href="https://github.com/mrkc2303" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/kanishk-chhabra/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mrkc2303" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:kanishkchhabra23@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> 
 
 - 🔭 I’m currently working on Android Development and Front-End Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
