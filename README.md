@@ -1,8 +1,7 @@
-<h2>Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h2>Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<br><br>I'm Kanishk Chhabra</h2>
 
-<h2>I'm Kanishk Chhabra </h2>
-
-<h3 align="center">Connect With Me !! </h2> 
+<h3 align="center">Connect With Me !! </h3> 
  
 <p align="center">
   <a href="https://github.com/mrkc2303" target="_blank">
@@ -37,8 +36,8 @@
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303" /> <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrkc2303&theme=dracula" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303" /> <br> <br> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrkc2303&theme=dracula" /> <br> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkc2303&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 </p>
 
