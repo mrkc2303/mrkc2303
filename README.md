@@ -40,6 +40,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkc2303&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/mrkc2303/count.svg)
-
 <strong>Show some :heart: by looking at my some repositories</strong>
