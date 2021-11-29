@@ -23,7 +23,7 @@
 -  I’m looking for help with Competitive Programming
 - 💬 Ask me about Anything that exites me
 - 📫 How to reach me: kanishkchhabra23@gmail.com
-- <a href = "https://drive.google.com/file/d/18u547F1S0E_ep-WlX8qBDlNLULQJxYUP/view?usp=sharing">Click here to see my Resume</a>
+- <a href = "https://drive.google.com/file/d/1z78R2rxDZOSAr7KbfR5o1eBUBIcu4A63/view?usp=sharing">Click here to see my Resume</a>
 
 <strong>Languages and Tools used: </strong>
 
