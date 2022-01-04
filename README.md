@@ -32,10 +32,11 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=plastic)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=plastic)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![JavaScript]()
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
-![Kotlin]()
-![C++]()
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=plastic)
+![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=plastic)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=plastic)
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303&show_icons=true&theme=dracula" />
