@@ -28,18 +28,18 @@
 <strong>Languages and Tools used: </strong>
 
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=plastic)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=plastic)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=plastic)
-![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=plastic)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=plastic)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=plastic)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=plastic)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=plastic)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
 
 
 
