@@ -30,10 +30,10 @@
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=plastic)
-![HTML]()
-![CSS]()
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=plastic)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
 ![JavaScript]()
-![React]()
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![Kotlin]()
 ![C++]()
 
