@@ -37,6 +37,11 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=plastic)
 ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=plastic)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=plastic)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=plastic)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=plastic)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=plastic)
+
+
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303&show_icons=true&theme=dracula" />
