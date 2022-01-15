@@ -46,6 +46,10 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 
+<strong>Libraries and Frameworks I use: </strong>
+
+https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge
+
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303&show_icons=true&theme=dracula" />
