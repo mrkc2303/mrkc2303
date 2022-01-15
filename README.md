@@ -44,6 +44,7 @@
 
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 <strong>Libraries and Frameworks I use: </strong>
 
