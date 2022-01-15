@@ -36,7 +36,6 @@
 ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-++-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
 
 
 <strong>Tools I use: </strong>
@@ -45,6 +44,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
 
 <strong>Libraries and Frameworks I use: </strong>
 
