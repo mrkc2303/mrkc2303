@@ -47,6 +47,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 
+
 <strong>Libraries and Frameworks I use: </strong>
 
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
