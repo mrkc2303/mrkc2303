@@ -55,7 +55,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
 
-
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303&show_icons=true&theme=dracula" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303&theme=dracula" /> <br> <br> 
