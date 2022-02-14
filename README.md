@@ -35,7 +35,6 @@
 ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-++-00599C?logo=c&logoColor=white&style=for-the-badge)
 
-
 <strong>Tools I use: </strong>
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
