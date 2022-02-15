@@ -55,6 +55,8 @@
 
 <strong>Platforms I use: </strong>
 
+<a href="https://leetcode.com/mrkc2303/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+
 
 
 <p align = "center">
