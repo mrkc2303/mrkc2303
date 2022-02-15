@@ -33,7 +33,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
 
 <strong>Tools I use: </strong>
