@@ -55,8 +55,8 @@
 
 <strong>Platforms I use for coding: </strong>
 
-<a href="https://leetcode.com/mrkc2303/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://www.codechef.com/users/mrkc2303">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://leetcode.com/mrkc2303/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://www.codechef.com/users/mrkc2303" target="_blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
 
 
 <p align = "center">
