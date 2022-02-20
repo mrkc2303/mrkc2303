@@ -67,4 +67,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkc2303&theme=dracula&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 </p>
 
-<strong>Show some :heart: by looking at my some repositories</strong>
+<strong>Show some :heart: by looking at my some <a href="https://github.com/mrkc2303?tab=repositories">repositories</a></strong>
