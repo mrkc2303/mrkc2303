@@ -16,15 +16,14 @@
   <a href="https://www.instagram.com/kanishk_chhabra" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
+</p>
+
 - 🔭 I’m currently working on Android Development and Front-End Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - I’m looking for help with Competitive Programming
 - 💬 Ask me about Anything that excites me
 - 📫 How to reach me: kanishkchhabra23@gmail.com
 - [Click here to see my Resume](https://drive.google.com/file/d/1z78R2rxDZOSAr7KbfR5o1eBUBIcu4A63/view?usp=sharing)
-</p>
-
 
 <strong>Languages I use</strong>
 
