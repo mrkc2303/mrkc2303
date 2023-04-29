@@ -57,8 +57,14 @@
 <a href="https://www.hackerrank.com/kanishkchhabra23" target="_blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 <div style="text-align:center">
-<img src = "https://stats.quine.sh/mrkc2303/github?theme=dark" /> <br>
-  <img src = "https://stats.quine.sh/mrkc2303/languages-over-time?theme=dark" /> <br>
+                 |  
+  :-------------------------:|:-------------------------:
+  [![mrkc2303's GitHub | Stats](https://stats.quine.sh/mrkc2303/github?theme=light)](https://quine.sh)  |  [![mrkc2303's GitHub | Languages Over Time](https://stats.quine.sh/mrkc2303/languages-over-time?theme=dark)](https://quine.sh)
+  <div style="">
+    <img src = "https://stats.quine.sh/mrkc2303/github?theme=dark" /> <br>
+    <img src = "https://stats.quine.sh/mrkc2303/languages-over-time?theme=dark" /> <br>
+  </div>
+  
   <img src = "https://stats.quine.sh/mrkc2303/topics-over-time?theme=dark" /> <br>
   <img src = "https://stats.quine.sh/mrkc2303/web3?theme=dark" /> <br>
 <!-- [![mrkc2303's GitHub | Languages Over Time](https://stats.quine.sh/mrkc2303/languages-over-time?theme=dark)](https://quine.sh)
