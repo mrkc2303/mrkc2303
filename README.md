@@ -57,6 +57,8 @@
 <a href="https://www.hackerrank.com/kanishkchhabra23" target="_blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 [![mrkc2303's GitHub | Stats](https://stats.quine.sh/mrkc2303/github?theme=light)](https://quine.sh)
+[![mrkc2303's GitHub | Languages Over Time](https://stats.quine.sh/mrkc2303/languages-over-time?theme=light)](https://quine.sh)
+[![mrkc2303's GitHub | Topics Over Time](https://stats.quine.sh/mrkc2303/topics-over-time?theme=light)](https://quine.sh)
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303&show_icons=true&theme=dracula" />
