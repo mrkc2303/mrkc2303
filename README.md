@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about Anything that excites me
 - 📫 How to reach me: kanishkchhabra23@gmail.com
-- [Click here to see my Resume](https://drive.google.com/file/d/1z78R2rxDZOSAr7KbfR5o1eBUBIcu4A63/view?usp=sharing)
+- [Click here to see my Resume](https://drive.google.com/drive/folders/10FPfdzZsfqgLABPjvaEMSIv6lm-vXkxx?usp=drive_link)
 
 <strong>Languages I use</strong>
 
